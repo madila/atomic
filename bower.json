@@ -1,0 +1,28 @@
+{
+    "name": "toddmotto/atomic",
+    "description": "Wordpress Theme for online magazine",
+    "keywords": [
+        "wordpress"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/toddmotto/atomic.git"
+    },    
+    "authors": [
+        "Ruben Madila"
+    ],
+    "main": [
+      "less/bootstrap.less",
+      "dist/js/bootstrap.js"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+
+    },
+    "devDependencies": {}
+}
